@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "snowden";
+  src:url("fonts/snowden.eot");
+  src:url("fonts/snowden.eot?#iefix") format("embedded-opentype"),
+    url("fonts/snowden.woff") format("woff"),
+    url("fonts/snowden.ttf") format("truetype"),
+    url("fonts/snowden.svg#snowden") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.snowden {
+  font-family: "snowden";
+  font-size:4000%;
+  text-align:center;
+}
